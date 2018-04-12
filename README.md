@@ -5,3 +5,5 @@ https://medium.com/@dupski/debug-typescript-in-vs-code-without-compiling-using-t
 
 Typescript webpack setup example  
 https://github.com/adrianhall/example-typescript-webpack
+
+http://marcobotto.com/compiling-and-bundling-typescript-libraries-with-webpack/
